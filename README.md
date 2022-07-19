@@ -2,7 +2,7 @@
 - 👀 I’m interested in wed development and urban planning :)
 - 🌱 I’m currently learning react with scrimba.com
 - 💞️ I’m looking to collaborate on having fun 
-- 📫 Reach me in telegram @shmigolk an follow me on Twitter @shi_mo_gol (even if you dont speak russian)
+- 📫 Reach me in telegram @shmigolk an follow me on Twitter @shi_mi_gol (even if you dont speak russian)
 
 
 <!---
