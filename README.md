@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shmigolk
-- 👀 I’m interested in wed development and urban planning :)
+- 👋 Hi, I’m Konstantin!
+- 👀 I’m interested in web development and urban planning :)
 - 🌱 I’m currently learning react with scrimba.com
 - 💞️ I’m looking to collaborate on having fun 
 - 📫 Reach me in telegram @shmigolk an follow me on Twitter @shi_mi_gol (even if you dont speak russian)
